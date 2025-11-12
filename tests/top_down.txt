@@ -1,0 +1,101 @@
+Checking n=3, remaining_weights=3
+Excluding item 3
+Checking n=2, remaining_weights=3
+Including item 2 (weight=3, value=4)
+Checking n=1, remaining_weights=0
+Base case reached. Returning 0.
+Excluding item 2
+Checking n=1, remaining_weights=3
+Including item 1 (weight=1, value=1)
+Checking n=0, remaining_weights=2
+Base case reached. Returning 0.
+Excluding item 1
+Checking n=0, remaining_weights=3
+Base case reached. Returning 0.
+Best for n=1, remaining_weights=3 is 1
+Best for n=2, remaining_weights=3 is 4
+Best for n=3, remaining_weights=3 is 4
+Checking n=3, remaining_weights=0
+Base case reached. Returning 0.
+Checking n=3, remaining_weights=6
+Including item 3 (weight=3, value=30)
+Checking n=2, remaining_weights=3
+Including item 2 (weight=2, value=20)
+Checking n=1, remaining_weights=1
+Including item 1 (weight=1, value=10)
+Checking n=0, remaining_weights=0
+Base case reached. Returning 0.
+Excluding item 1
+Checking n=0, remaining_weights=1
+Base case reached. Returning 0.
+Best for n=1, remaining_weights=1 is 10
+Excluding item 2
+Checking n=1, remaining_weights=3
+Including item 1 (weight=1, value=10)
+Checking n=0, remaining_weights=2
+Base case reached. Returning 0.
+Excluding item 1
+Checking n=0, remaining_weights=3
+Base case reached. Returning 0.
+Best for n=1, remaining_weights=3 is 10
+Best for n=2, remaining_weights=3 is 30
+Excluding item 3
+Checking n=2, remaining_weights=6
+Including item 2 (weight=2, value=20)
+Checking n=1, remaining_weights=4
+Including item 1 (weight=1, value=10)
+Checking n=0, remaining_weights=3
+Base case reached. Returning 0.
+Excluding item 1
+Checking n=0, remaining_weights=4
+Base case reached. Returning 0.
+Best for n=1, remaining_weights=4 is 10
+Excluding item 2
+Checking n=1, remaining_weights=6
+Including item 1 (weight=1, value=10)
+Checking n=0, remaining_weights=5
+Base case reached. Returning 0.
+Excluding item 1
+Checking n=0, remaining_weights=6
+Base case reached. Returning 0.
+Best for n=1, remaining_weights=6 is 10
+Best for n=2, remaining_weights=6 is 30
+Best for n=3, remaining_weights=6 is 60
+Checking n=3, remaining_weights=5
+Including item 3 (weight=3, value=7)
+Checking n=2, remaining_weights=2
+Including item 2 (weight=2, value=4)
+Checking n=1, remaining_weights=0
+Base case reached. Returning 0.
+Excluding item 2
+Checking n=1, remaining_weights=2
+Excluding item 1
+Checking n=0, remaining_weights=2
+Base case reached. Returning 0.
+Best for n=1, remaining_weights=2 is 0
+Best for n=2, remaining_weights=2 is 4
+Excluding item 3
+Checking n=2, remaining_weights=5
+Including item 2 (weight=2, value=4)
+Checking n=1, remaining_weights=3
+Excluding item 1
+Checking n=0, remaining_weights=3
+Base case reached. Returning 0.
+Best for n=1, remaining_weights=3 is 0
+Excluding item 2
+Checking n=1, remaining_weights=5
+Including item 1 (weight=4, value=10)
+Checking n=0, remaining_weights=1
+Base case reached. Returning 0.
+Excluding item 1
+Checking n=0, remaining_weights=5
+Base case reached. Returning 0.
+Best for n=1, remaining_weights=5 is 10
+Best for n=2, remaining_weights=5 is 10
+Best for n=3, remaining_weights=5 is 11
+Checking n=1, remaining_weights=5
+Excluding item 1
+Checking n=0, remaining_weights=5
+Base case reached. Returning 0.
+Best for n=1, remaining_weights=5 is 0
+✅ All test cases passed!
