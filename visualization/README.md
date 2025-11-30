@@ -9,10 +9,15 @@ This module provides visualization tools for the 0/1 Knapsack problem using dyna
 - Solution visualization with selected items
 - Backtracking path visualization
 
+**Top-down (Memorization) Approach** - Implemented by Diana Emal and Harjot Grewal
+- Complete 2D memorization table visualization
+- Solution visualization with selected items
+
 ## Files
 
 - `visualizer.py` - Main visualization class with all plotting methods
 - `example_bottom_up.py` - Demo for bottom-up approach visualization
+- `example_top_down.py` - Demo for top-down approach visualization
 - `README.md` - This file
 
 ## Features
