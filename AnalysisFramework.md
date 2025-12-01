@@ -65,8 +65,9 @@
 - Visualization for both implementations with same test case
 - Execution time using randomly generated numbers for both implementations
 
-## **5. Design Choices**
 ## **6. Future improvements**
+- Using a real-time DP table visualization
+- Using the previous row to calculate current which will decrease space complexity in Bottom-Up
+
 ## **7. Conclusion**
-
-
+To conclude uisng python and its available libraries we were able to effectively visualize  and implement a top-down and bottom-up approach for the knapsack problem. Using dynamic programming allows for breaking the larger problem into smaller subproblems which we applied in the memoization and tabulation. Where memoization uses a recursive approach and stores subproblem results to help avoid redundant calculations. While also only calculating the states which are needed. Tabulation uses a iterative approach and computes all reults and stores them in a table and avoids the recursive overhead. Overall, using dymanic programming to solve the knapsack problem allows for efficient and better time and space complexity especially when compared against brute force methods. 
