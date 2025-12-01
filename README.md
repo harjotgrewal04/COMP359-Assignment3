@@ -66,7 +66,7 @@ Visualization is provided for both top-down and bottom-up methods. To see full d
 
 ## **References / Citations**
 
-- GeeksforGeeks. (n.d.). *0/1 Knapsack Problem* GeeksforGeeks. https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/
+- GeeksforGeeks. (n.d.). *0/1 Knapsack Problem*. GeeksforGeeks. https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/
 
 - GeeksforGeeks. (n.d.). *What is Memoization? A Complete Tutorial*. GeeksforGeeks. https://www.geeksforgeeks.org/dsa/what-is-memoization-a-complete-tutorial/#what-is-memoization
 
