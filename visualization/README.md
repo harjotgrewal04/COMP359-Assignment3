@@ -4,8 +4,8 @@ This module provides visualization tools for the 0/1 Knapsack problem using dyna
 
 ## Team Members
 - Tanisha Ahuja (Bottom-up approach + Visualization)
-- Diana Emel (Top-down approach implementation)
-- Harjot Grewal (Top-down visualization + Top-down and Bottom-up complexity analysis)
+- Diana Emel (Top-down approach implementation + complexity analysis)
+- Harjot Grewal (Top-down visualization + Bottom-up complexity analysis)
 
 ## Current Implementation
 
