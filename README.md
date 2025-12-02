@@ -64,6 +64,9 @@ Visualization is provided for both top-down and bottom-up methods. To see full d
 
 ---
 
+## **Link to our GitHub repo**:
+https://github.com/harjotgrewal04/COMP359-Assignment3
+
 ## **References / Citations**
 
 - GeeksforGeeks. (2012, March 19). 0/1 Knapsack Problem. Retrieved from GeeksforGeeks website: https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/
