@@ -66,8 +66,8 @@ Visualization is provided for both top-down and bottom-up methods. To see full d
 
 ## **References / Citations**
 
-- GeeksforGeeks. (n.d.). *0/1 Knapsack Problem*. GeeksforGeeks. https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/
-
-- GeeksforGeeks. (n.d.). *What is Memoization? A Complete Tutorial*. GeeksforGeeks. https://www.geeksforgeeks.org/dsa/what-is-memoization-a-complete-tutorial/#what-is-memoization
-
-- GeeksforGeeks. (n.d.). *Tabulation vs Memoization*. GeeksforGeeks. https://www.geeksforgeeks.org/dsa/tabulation-vs-memoization/
+- GeeksforGeeks. (2012, March 19). 0/1 Knapsack Problem. Retrieved from GeeksforGeeks website: https://www.geeksforgeeks.org/dsa/0-1-knapsack-problem-dp-10/
+- GeeksforGeeks. (2022, June 24). What is Memoization? A Complete Tutorial. Retrieved December 2, 2025, from GeeksforGeeks website: https://www.geeksforgeeks.org/dsa/what-is-memoization-a-complete-tutorial/#what-is-memoization
+- GeeksforGeeks. (2017, April 13). Tabulation vs Memoization. Retrieved from GeeksforGeeks website: https://www.geeksforgeeks.org/dsa/tabulation-vs-memoization/-
+- Gautam, S. (2023, September 4). Top-down vs Bottom-up Approach in Dynamic Programming. Retrieved from EnjoyAlgorithms website: https://medium.com/enjoy-algorithm/top-down-vs-bottom-up-approach-in-dynamic-programming-53b917bfbe0
+- Mastering the 0/1 Knapsack Problem: A Comprehensive Guide – AlgoCademy Blog. (2025). Retrieved December 2, 2025, from Algocademy.com website: https://algocademy.com/blog/mastering-the-0-1-knapsack-problem-a-comprehensive-guide/#space-optimization
